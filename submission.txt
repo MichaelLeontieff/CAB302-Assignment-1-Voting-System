@@ -1,0 +1,1 @@
+No known issues with either simple or pref election - unit tests revolve around supplied datasets for both.
