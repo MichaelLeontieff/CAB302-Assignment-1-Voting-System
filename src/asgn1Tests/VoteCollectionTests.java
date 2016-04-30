@@ -170,7 +170,7 @@ public class VoteCollectionTests {
 	}
 	
 	// UPDATE INFORMAL COUNT //
-
+	// change //
 	@Test
 	public void IncrementFormalCount() {
 		vc.updateInformalCount();
